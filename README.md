@@ -10,6 +10,10 @@ Welcome to the Leonardo DiCaprio Official Website! This is a simple website show
 3. Configuration
 4. Usage
 
+## Introduction
+
+This project is a static website built using HTML, CSS, Bootstrap, and JavaScript. It provides information about Leonardo DiCaprio in a user-friendly format.
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
