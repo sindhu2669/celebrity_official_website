@@ -21,7 +21,7 @@ Text editor (e.g., Visual Studio Code)
 
 No additional configuration is required for the basic setup. However, if you want to customize the website further:
 
-Replace the placeholder background image (background-image.jpg) with your own image in the style tag in the <head> section of index.html.
+Replace the placeholder background image (background-image.jpg) with your own image in the style tag in the <head> section of 'single_page.html'.
 
 Add or replace gallery images (ldc1.jpg, ldc2.jpg, etc.) in the gallery section of index.html. Adjust image dimensions as needed.
 ## Usage
